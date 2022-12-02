@@ -1,4 +1,4 @@
-# masai_vaccination
+# vaccine-application
 
 # Techstack
 
